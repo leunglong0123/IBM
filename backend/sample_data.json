@@ -1,0 +1,79 @@
+[
+  {
+    "planeId": "PLANE_A",
+    "origin": "HKG",
+    "destination": "NRT",
+    "departureTime": "2025-10-20T01:25:00Z",
+    "arrivalTime": "2025-10-20T05:55:00Z"
+  },
+  {
+    "planeId": "PLANE_A",
+    "origin": "NRT",
+    "destination": "TPE",
+    "departureTime": "2025-10-20T08:39:00Z",
+    "arrivalTime": "2025-10-20T12:29:00Z"
+  },
+  {
+    "planeId": "PLANE_A",
+    "origin": "TPE",
+    "destination": "HKG",
+    "departureTime": "2025-10-20T13:50:00Z",
+    "arrivalTime": "2025-10-20T15:50:00Z"
+  },
+  {
+    "planeId": "PLANE_B",
+    "origin": "TPE",
+    "destination": "LAX",
+    "departureTime": "2025-10-20T00:30:00Z",
+    "arrivalTime": "2025-10-20T08:45:00Z"
+  },
+  {
+    "planeId": "PLANE_B",
+    "origin": "LAX",
+    "destination": "JFK",
+    "departureTime": "2025-10-20T10:00:00Z",
+    "arrivalTime": "2025-10-20T16:30:00Z"
+  },
+  {
+    "planeId": "PLANE_B",
+    "origin": "JFK",
+    "destination": "LHR",
+    "departureTime": "2025-10-20T18:15:00Z",
+    "arrivalTime": "2025-10-21T06:00:00Z"
+  },
+  {
+    "planeId": "PLANE_C",
+    "origin": "HKG",
+    "destination": "SIN",
+    "departureTime": "2025-10-19T09:00:00Z",
+    "arrivalTime": "2025-10-19T13:00:00Z"
+  },
+  {
+    "planeId": "PLANE_C",
+    "origin": "SIN",
+    "destination": "BKK",
+    "departureTime": "2025-10-19T15:30:00Z",
+    "arrivalTime": "2025-10-19T17:00:00Z"
+  },
+  {
+    "planeId": "PLANE_C",
+    "origin": "BKK",
+    "destination": "HKG",
+    "departureTime": "2025-10-19T19:00:00Z",
+    "arrivalTime": "2025-10-19T21:30:00Z"
+  },
+  {
+    "planeId": "PLANE_C",
+    "origin": "HKG",
+    "destination": "ICN",
+    "departureTime": "2025-10-20T06:00:00Z",
+    "arrivalTime": "2025-10-20T10:00:00Z"
+  },
+  {
+    "planeId": "PLANE_C",
+    "origin": "ICN",
+    "destination": "NRT",
+    "departureTime": "2025-10-20T12:00:00Z",
+    "arrivalTime": "2025-10-20T14:30:00Z"
+  }
+]
